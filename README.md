@@ -17,17 +17,17 @@ Use the for external developers usually locked up airberlin API (SOAP, RPC) the 
 
 1. Index Availabilities filtered by departure, destination, date and passengers
 2. Booking
-2.1. Step by step noting down IDs
-  - Create Booked Flight Segments
-  - Create Passengers
-  - Create Customer Address
-  - Create Credit Card
-  - Create Booking, providing all previous resource IDs
-2.2. Transactionally create Booking, providing:
-  - Booked Flight Segments
-  - Passengers
-  - Customer Address
-  - Credit Card
+  1. Step by step noting down IDs
+    - Create Booked Flight Segments
+    - Create Passengers
+    - Create Customer Address
+    - Create Credit Card
+    - Create Booking, providing all previous resource IDs
+  2. Transactionally create Booking, providing:
+    - Booked Flight Segments
+    - Passengers
+    - Customer Address
+    - Credit Card
 
 ## XapiX.io
 
