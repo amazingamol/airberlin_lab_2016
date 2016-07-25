@@ -1,6 +1,6 @@
 # airberlin_lab_2016
 
-Official Support Repo with Docs, FAQs and Issues around the Air Berlin Lab 2016 powered by XapiX.io
+Official Support Repo with Docs, FAQs and Issues around the airberlin Lab 2016 powered by XapiX.io
 
 This site is for all kind of questions and feedback around the online hackathon to be found on devpost and all other aspects of the underlying innovation program.
 
@@ -11,7 +11,23 @@ Use airberlin's Lab to recombine data/services into customer-centric APP's. Desi
 
 ## (https://app.xapix.io/airberlin)
 
-Use the for external developers usually locked up Air Berlin API (SOAP, RPC) the most comfortable way through XapiX.io (REST, Hypermedia) with preconfigured authentication. Just fill out a one step wizard and all available resources will be imported for you to start hacking! Use Swagger UI or our very own Web Console to right away peak into data and build awesome projects.
+Use the for external developers usually locked up airberlin API (SOAP, RPC) the most comfortable way through XapiX.io (REST, Hypermedia) with preconfigured authentication. Just fill out a one step wizard and all available resources will be imported for you to start hacking! Use Swagger UI or our very own Web Console to right away peak into data and build awesome projects.
+
+## airberlin Booking Flow
+
+1. Index Availabilities filtered by departure, destination, date and passengers
+2. Booking
+2.1. Step by step noting down IDs
+  - Create Booked Flight Segments
+  - Create Passengers
+  - Create Customer Address
+  - Create Credit Card
+  - Create Booking, providing all previous resource IDs
+2.2. Transactionally create Booking, providing:
+  - Booked Flight Segments
+  - Passengers
+  - Customer Address
+  - Credit Card
 
 ## XapiX.io
 
