@@ -56,6 +56,8 @@ Theres is also a XapiX.io [BETA themed Wiki](https://github.com/xapix-io/beta/wi
 
 (influenced by json:api and RESTful API terminology)
 
+Default across entire platform is snake case. Better support for camel case is in progress.
+
 "Resources" within this document refers to XapiX’ main resources:
 - "Web Interfaces"
 - "Resource Class"
