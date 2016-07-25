@@ -36,7 +36,9 @@ On XapiX platform:
 1. Create / Model a Resource Class as YOU need it for your application
 2. Use Mocking feature to generate data for your Resource Class
 3. Program against this data structure. We'll see and give you credit in judging!
-4. Tell us! [File an Issue](https://github.com/xapix-io/airberlin_lab_2016/issues/new) or use Feedback feature in top right corner in the XapiX platform 
+4. Tell us! [File an Issue](https://github.com/xapix-io/airberlin_lab_2016/issues/new) or use Feedback feature in top right corner in the XapiX platform
+
+We will discuss your suggestion with airberlin as soon as possible and may provide you a real endpoint with real data from airberlin systems. This is the feedback cycle between developers and API maintainers we aim to embrace.
 
 ## XapiX.io
 
