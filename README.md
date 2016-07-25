@@ -23,7 +23,9 @@ When signed in, find the educational mode switch in the upper right corner. Turn
 
 Annotated videos for most common workflows are provided on our [YouTube channel](https://www.youtube.com/channel/UC1SPLZlF6Y_BkIkvi3kVwmw)
 
-## XapiX.io terminology
+Theres is also a XapiX.io [BETA themed Wiki](https://github.com/xapix-io/beta/wiki) at a seperate GitHub Repo. It is frequentlyy updated, but usually a bit behind.
+
+## XapiX.io Terminology
 
 (influenced by json:api and RESTful API terminology)
 
