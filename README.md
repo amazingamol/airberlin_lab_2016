@@ -29,6 +29,15 @@ Use the for external developers usually locked up airberlin API (SOAP, RPC) the 
     - Customer Address
     - Credit Card
 
+## airberlin other resources
+
+On XapiX platform:
+
+1. Create / Model a Resource Class as YOU need it for your application
+2. Use Mocking feature to generate data for your Resource Class
+3. Program against this data structure. We'll see and give you credit in judging!
+4. Tell us! [File an Issue](https://github.com/xapix-io/airberlin_lab_2016/issues/new) or use Feedback feature in top right corner in the XapiX platform 
+
 ## XapiX.io
 
 XapiX.io is a platform to build adapters to APIs or any other web interface. We normalize every kind of data source to a RESTful hypermedia format with all common features. For your convenience, we: manage authentication, minimize complexity resulting from heterogenousity, provide easy going mockup feature, provide direct feedback channel to provider API architects.
