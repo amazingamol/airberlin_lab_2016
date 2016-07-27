@@ -16,6 +16,8 @@ Use the for external developers usually locked up airberlin API (SOAP, RPC) the 
 ## airberlin Booking Flow
 
 1. Index Availabilities filtered by departure, destination, date and passengers
+  1. Choose desired flight combination
+  2. Extract desired flight segment's: "internal booking no", "flight date" and "fare base code"
 2. Booking
   1. Step by step noting down IDs
     - Create Booked Flight Segments
