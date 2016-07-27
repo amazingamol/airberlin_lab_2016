@@ -56,7 +56,7 @@ Theres is also a XapiX.io [BETA themed Wiki](https://github.com/xapix-io/beta/wi
 
 ## XapiX.io Terminology
 
-(influenced by json:api and RESTful API terminology)
+(influenced by [json:api](http://jsonapi.org/format/) and [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer) terminology)
 
 Default across entire platform is snake case. Better support for camel case is in progress.
 
@@ -100,7 +100,7 @@ Default across entire platform is snake case. Better support for camel case is i
   - data types: JSON, XML, CSV, SOAP service, DB table or view, etc.
   - config fields to retrieve a collection of data records / a single data record
   - fetches a "data sample" when saved with valid configuration
-  - "Web Data Target" - soon to come
+- "Web Data Target" - soon to come
 
 "Resource Class" (formerly Output Endpoint)
 - has 1 to 5 "Actions" out of:
