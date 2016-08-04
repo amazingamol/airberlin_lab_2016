@@ -21,7 +21,7 @@ Please know that the UUIDs generated on LIVE request's substructures are usually
   1. Choose desired flight combination
   2. Extract desired flight segment's: "internal booking no", "flight date" and "fare base code"
 2. Booking
-  1. Step by step noting down IDs -> Use UUIDs! When no ID is submitted, server will generate one for you.
+  1. Step by step noting down IDs (Use UUIDs! When no ID is submitted, server will generate one for you)
     - Create Booked Flight Segments
     - Create Passengers
     - Create Customer Address
