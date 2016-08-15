@@ -1,6 +1,6 @@
 # airberlin_lab_2016
 
-Official Support Repo with Docs, FAQs and [Issues](https://github.com/xapix-io/airberlin_lab_2016/issues) around the airberlin Lab 2016 powered by [XapiX.io](http://www.xapix.io). Also pelase sign up for our [Slack Channel](http://slack.xapix.io/) and feel free to shoot us an [Email](mailto:support@xapix.io).
+Official Support Repo with Docs, FAQs and [Issues](https://github.com/xapix-io/airberlin_lab_2016/issues) around the airberlin Lab 2016 powered by [XapiX.io](http://www.xapix.io). Also pelase join our [Slack Channel](http://slack.xapix.io/) and feel free to shoot us an [Email](mailto:support@xapix.io).
 
 This site is for all kind of questions and feedback around the online hackathon to be found on devpost and all other aspects of the underlying innovation program.
 
