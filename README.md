@@ -21,6 +21,8 @@ Use the for external developers usually locked up airberlin API (SOAP, RPC) the 
 
 From Devpost to a booking at airberlin in a few minutes. We'll guide you from the Devpost hackathon page via XapiX sign up and hackathon wizard all the way through the few and easy API interactions necessary to make a real booking on the airberlin test system. Enjoy!
 
+<hr>
+
 Please know that the UUIDs generated on LIVE request's substructures are usually temporary. They are a compromise to enable somewhat resourceful hypermedia interaction with airberlin's SOAP RPC-style API. 
 
 1. Index Availabilities filtered by departure, destination, date and passengers
@@ -43,13 +45,15 @@ Please know that the UUIDs generated on LIVE request's substructures are usually
 
 ## airberlin other resources
 
-On XapiX platform:
-
 <a href="https://youtu.be/bTNFtQwARGQ"><img src="https://img.youtube.com/vi/bTNFtQwARGQ/1.jpg" align="left" /></a>
 
 ### Video: Workshop (~20 mins)
 
 Quick intro into the hackathon tools. Learn the easiest ways to access airberlin data. See in a live demo how to use the hackathon wizard, mocking techniques and provide feedback to airberlin. Also core concepts of the XapiX platform UI are introduced.
+
+<hr>
+
+On XapiX platform:
 
 1. Create / Model a Resource Class as YOU need it for your application.
 2. Use Mocking feature to generate data for your Resource Class
