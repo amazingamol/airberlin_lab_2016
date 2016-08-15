@@ -17,7 +17,7 @@ Use the for external developers usually locked up airberlin API (SOAP, RPC) the 
 
 <a href="https://youtu.be/SULotXOBfXU"><img src="https://img.youtube.com/vi/SULotXOBfXU/1.jpg" align="left" /></a>
 
-### Video: Quick Setup Guide (~7 mins)
+[Video: Quick Setup Guide (~7 mins)](https://youtu.be/SULotXOBfXU)
 
 From Devpost to a booking at airberlin in a few minutes. We'll guide you from the Devpost hackathon page via XapiX sign up and hackathon wizard all the way through the few and easy API interactions necessary to make a real booking on the airberlin test system. Enjoy!
 
@@ -47,7 +47,7 @@ Please know that the UUIDs generated on LIVE request's substructures are usually
 
 <a href="https://youtu.be/bTNFtQwARGQ"><img src="https://img.youtube.com/vi/bTNFtQwARGQ/1.jpg" align="left" /></a>
 
-### Video: Workshop (~20 mins)
+[Video: Workshop (~20 mins)](https://youtu.be/bTNFtQwARGQ)
 
 Quick intro into the hackathon tools. Learn the easiest ways to access airberlin data. See in a live demo how to use the hackathon wizard, mocking techniques and provide feedback to airberlin. Also core concepts of the XapiX platform UI are introduced.
 
