@@ -45,7 +45,7 @@ Please know that the UUIDs generated on LIVE request's substructures are usually
 
 On XapiX platform:
 
-<a href="https://youtu.be/bTNFtQwARGQ"><img src="https://img.youtube.com/vi/bTNFtQwARGQ/0.jpg" align="left" /></a>
+<a href="https://youtu.be/bTNFtQwARGQ"><img src="https://img.youtube.com/vi/bTNFtQwARGQ/1.jpg" align="left" /></a>
 
 ### Video: Workshop (~20 mins)
 
