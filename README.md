@@ -15,7 +15,7 @@ Use the for external developers usually locked up airberlin API (SOAP, RPC) the 
 
 ## airberlin Booking Flow
 
-[![Quick Setup Guide](https://img.youtube.com/vi/SULotXOBfXU/1.jpg)](https://www.youtube.com/SULotXOBfXU)
+[![Quick Setup Guide](https://img.youtube.com/vi/SULotXOBfXU/1.jpg)](https://www.youtube.com/SULotXOBfXU) Quick intro into the hackathon tools. Learn the easiest ways to access airberlin data. See in a live demo how to use the hackathon wizard, mocking techniques and provide feedback to airberlin. Also core concepts of the XapiX platform UI are introduced.
 
 Please know that the UUIDs generated on LIVE request's substructures are usually temporary. They are a compromise to enable somewhat resourceful hypermedia interaction with airberlin's SOAP RPC-style API. 
 
